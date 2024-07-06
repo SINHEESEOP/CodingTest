@@ -5,7 +5,9 @@ import java.util.Collections;
 import java.util.List;
 
 public class K번째수_정답 {
-
+	// 문제 링크.
+	// https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java
+	
 	public static void main(String[] args) {
 		int[] array = {1, 5, 2, 6, 3, 7, 4};
 		int[][] commands = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
