@@ -13,7 +13,6 @@ public class K번째수_정답 {
 
 	}
 
-
 	static List<Integer> solution(int[] array, int[][] commands) {
 		List<Integer> answer = new ArrayList<>();
 
